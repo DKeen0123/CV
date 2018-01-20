@@ -17,3 +17,6 @@ In all of my business roles, I have been the translator between business and dev
 I also wrote extensive documentation on my most recent role that is being used by the company to train new SEO and content planners on how to most efficiently do their jobs.
 
 ### Strategy and Planning
+
+I enjoy laying the foundations for long-term plans. In my role at Wirex, I laid out an began to execute my own plan for the site architecture - writing extensive content briefs and contingencies for a rapidly moving market so that that adaptation was swift and easy.
+

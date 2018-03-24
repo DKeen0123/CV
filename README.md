@@ -8,7 +8,7 @@ I'm a business graduate with operations and analytics experience in two exciting
 
 Looking at trends, trying to decipher some sort of meaning from them and then acting on it has always been one of my strong points.
 
-As an SEO intern at Wirex, I focused my energy on seeing what top competitors were doing, but most importantly, what competitors **weren't** doing, and then giving our content creators the tools and the knowledge to exploit this. This led to a sharp uptick in organic visitors to the site, and content that I refactored according to my findings saw a great boost to their rankings in google.
+As an SEO intern at Wirex, I focused my energy on seeing what top competitors were doing, but most importantly, what competitors **weren't** doing that they could be, and then giving our content creators the tools and the knowledge to exploit these gaps with detailed keyword plans and content ideas. This led to a sharp uptick in organic visitors to the site, in general a rise of 20% each month, and content that I refactored according to my findings saw a great boost to their rankings in google. Prioritising articles already on the front page of common google searches and boosting them into the top 3 facilitated this growth.
 
 ### Communication
 
@@ -18,5 +18,6 @@ I also wrote extensive documentation on my most recent role that is being used b
 
 ### Strategy and Planning
 
-I enjoy laying the foundations for long-term plans. In my role at Wirex, I laid out an began to execute my own plan for the site architecture - writing extensive content briefs and contingencies for a rapidly moving market so that that adaptation was swift and easy.
+I enjoy laying the foundations for long-term plans. In my role at Wirex, I laid out and began to execute my own plan for the site architecture - writing extensive content briefs and contingencies for a rapidly moving market so that that adaptation was swift and easy.
 
+I left the company with a content plan for over 200 pages, and extensive documentation on how to optimise for searchability on these articles.

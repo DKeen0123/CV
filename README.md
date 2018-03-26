@@ -2,6 +2,16 @@
 
 I'm a business graduate with operations and analytics experience in two exciting tech startups, tired of being on the client-facing surface of business and wanting to take a deep-dive into the creation and production of the technology itself.
 
+**Tech Skills** : Javascript, ReactJS, Ruby, Rails, Sinatra, HTML, CSS, jQuery, Bootstrap, PostgreSQL
+
+## Projects
+
+| Project                                                             | Description                                                                                                                                                                                        | Technologies                               |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [Airport Challenge](https://github.com/DKeen0123/airport_challenge) | This was my first Challenge project at Makrs Academy. Take a look to see how far I have come since.                                                                                                | Ruby, RSpec                                |
+| [Chitter Challenge](https://github.com/DKeen0123/chitter-challenge) | The week 4 challenge in Makers Academy, this is an end to end twitter clone.                                                                                                                       | Ruby, Capybara, Rspec, Datamapper, Sinatra |
+| [WellMo](https://github.com/DKeen0123/WellMo)                       | A small web app built on the CBT (Cognitive Behavioural Therapy) thought recording process. It allows a user to input how they are feeling, and be recommended advice depending on their response. | React, Jest, Enzyme, Nightwatch.js         |
+
 ## Skills
 
 ### Analysis

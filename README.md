@@ -1,6 +1,6 @@
 ## Daniel Keen
 
-I'm a **software developer** with Javascript and Ruby experience, looking for a new role. **I am particularly interested in the ReactJS JavaScript library**.
+I'm a **full-stack software developer** with Javascript and Ruby experience, looking for a new role. **I am particularly interested in the ReactJS JavaScript library**.
 
 with a background in operations and analytics in two exciting tech startups, tired of being on the client-facing surface of business and wanting to take a deep-dive into the creation and production of the technology itself.
 
@@ -33,3 +33,33 @@ I also wrote extensive documentation on my most recent role that is being used b
 I enjoy laying the foundations for long-term plans. In my role at Wirex, I laid out and began to execute my own plan for the site architecture - writing extensive content briefs and contingencies for a rapidly moving market so that that adaptation was swift and easy.
 
 I left the company with a content plan for over 200 pages, and extensive documentation on how to optimise for searchability on these articles.
+
+#### Additional Skills
+
+Methodologies : Agile, XP, Test Driven Development
+
+## Education
+
+### Makers Academy (Jan '18 to Apr '18)
+
+A highly selective and intensive 16 week coding boot camp in London. Within the course, we learn the following:
+
+* **Test Driven Development**.
+
+* **Object-Orientated Design** - Applying practices such as readability, scalable code, DRY, and SOLID principles.
+
+* **Agile methodologies** - Starting with the goal of reaching a MVP, and then building upon it with small features.
+
+* **Communication** - Running our own stand-ups and retros for reflection, evaluation and open communication, focusing on XP values.
+
+* **Thinking like an engineer** - Improving our approach to solving problems. Breaking things down and using diagramming to help make complexity manageable.
+
+* **Git/Github** - Regular commits, branches, and merge conflicts, as well as working in groups and managing the workflow.
+
+* **Technologies:** Ruby, Rails, Sinatra, Javascript, React, Node.js and Express.
+
+* **Testing Frameworks** Rspec, Jasmine, Mocha, Chai, Jest, Enzyme and Nightwatch.js.
+
+### Oxford Brookes University (Sept '13 to July '16)
+
+* BA hons in Business and Management (2:1)

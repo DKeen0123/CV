@@ -62,4 +62,36 @@ A highly selective and intensive 16 week coding boot camp in London. Within the 
 
 ### Oxford Brookes University (Sept '13 to July '16)
 
-* BA hons in Business and Management (2:1)
+* Bachelors Degree in Business and Management (2:1)
+
+## Experience
+
+### Rota (Sept '16 to Jan '17)
+
+Role: Operations intern
+
+Responsibilities:
+
+* Training and on-boarding new members.
+* shift and member management
+* Invoicing of clients
+
+Achievements:
+
+* Learned basic SQL to help streamline business processes
+* As an operations team we tripled the active member base from 500 to 1500 in 3 months whilst increasing staff quality.
+
+### Wirex (Oct '17 to Jan '18)
+
+Role: Website intern
+
+Responsibilities:
+
+* Maintain and build on the existing WordPress websites content.
+* Improve site structure for SEO purposes.
+* Edit and publish content on all Wirex blogs.
+
+Achievements:
+
+* wrote 3 published blog posts for the main Wirex website.
+* increased organic website visitors and sign-ups by 20% monthly through content and SEO efforts.

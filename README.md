@@ -1,18 +1,21 @@
 ## Daniel Keen
 
-I'm a **full-stack software developer** with Javascript and Ruby experience, looking for a new role. **I am particularly interested in the ReactJS JavaScript library**.
+I'm a **full-stack software developer** with Javascript and Ruby experience, looking for a new role.
 
-with a background in operations and analytics in two exciting tech startups, tired of being on the client-facing surface of business and wanting to take a deep-dive into the creation and production of the technology itself.
+with a background in operations, analytics and SEO in two exciting tech startups, I found myself enjoying the technical side of my work more, and now want to take a deep-dive into the creation and production of the technology itself.
 
-**Tech Skills** : Javascript, ReactJS, Ruby, Rails, Sinatra, HTML, CSS, jQuery, Bootstrap, PostgreSQL
+Having graduated from Makers Academy, I am grounded in great software practices, and practiced Agile methodologies and TDD throughout.
+
+**Tech Skills** : Javascript, ReactJS, Ruby, Rails, Sinatra, Python, HTML, CSS, jQuery, Bootstrap, PostgreSQL
 
 ## Projects
 
-| Project                                                             | Description                                                                                                                                                                                        | Technologies                               |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [Airport Challenge](https://github.com/DKeen0123/airport_challenge) | This was my first Challenge project at Makers Academy. Take a look to see how far I have come since.                                                                                               | Ruby, RSpec                                |
-| [Chitter Challenge](https://github.com/DKeen0123/chitter-challenge) | The week 4 challenge in Makers Academy, this is an end to end twitter clone.                                                                                                                       | Ruby, Capybara, Rspec, Datamapper, Sinatra |
-| [WellMo](https://github.com/DKeen0123/WellMo)                       | A small web app built on the CBT (Cognitive Behavioural Therapy) thought recording process. It allows a user to input how they are feeling, and be recommended advice depending on their response. | React, Jest, Enzyme, Nightwatch.js         |
+| Project                                                             | Description                                                                                                                                                                                                                                                   | Technologies                               |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [Airport Challenge](https://github.com/DKeen0123/airport_challenge) | This was my first Challenge project at Makers Academy. Take a look to see how far I have come since.                                                                                                                                                          | Ruby, RSpec                                |
+| [Chitter Challenge](https://github.com/DKeen0123/chitter-challenge) | The week 4 challenge in Makers Academy, this is an end to end twitter clone.                                                                                                                                                                                  | Ruby, Capybara, Rspec, Datamapper, Sinatra |
+| [WellMo](https://github.com/DKeen0123/WellMo)                       | A small web app built on the CBT (Cognitive Behavioural Therapy) thought recording process. It allows a user to input how they are feeling, and be recommended advice depending on their response. This was built in 5 days as a team project to learn React. | React, Jest, Enzyme, Nightwatch.js         |
+| [SentiMind](https://github.com/DKeen0123/SentiMind)                 | Makers Academy final project. A twitter sentiment analysis Machine Learning project built in 8 days to understand the potential uses of machine learning and how to visualise and use data.                                                                   | React, Jest, Enzyme, Python, Flask, Pytest |
 
 ## Skills
 
@@ -93,5 +96,8 @@ Responsibilities:
 
 Achievements:
 
-* wrote 3 published blog posts for the main Wirex website.
+* wrote 3 published blog posts for the main Wirex website. Links:
+  * [Is Now the Right Time to Buy Bitcoin?](https://wirexapp.com/is-now-the-right-time-to-buy-bitcoin/)
+  * [7 Questions to Get You Started With Bitcoin](https://wirexapp.com/intro/7-questions-get-started-bitcoin/)
+  * [Ethereum vs Ethereum Classic: Which do I Choose?](https://wirexapp.com/ethereum-vs-ethereum-classic-choose/)
 * increased organic website visitors and sign-ups by 20% monthly through content and SEO efforts.
